@@ -9,8 +9,9 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 -	Bases de Datos Relacional: SQL Server, MySQL, PostgreSQL, SQLite.
 -	Bases de Datos no Relacional: MongoDB.
 
-![Angular](https://img.shields.io/badge/Angular-A-red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Angular](https://img.shields.io/badge/Angular-A-red)
+![Ionic](https://img.shields.io/badge/Ionic-O-blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
