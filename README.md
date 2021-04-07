@@ -37,6 +37,8 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 ![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight&card_height=500)](https://github.com/luisgaliciadev/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisgaliciadev)](https://github.com/luisgaliciadev/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/luis-raul-galicia-lugo-718919191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
