@@ -43,6 +43,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
   </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
