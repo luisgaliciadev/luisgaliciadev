@@ -35,7 +35,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 
-
+- GitHub Stats
 ![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight)](https://github.com/luisgaliciadev/github-readme-stats)
 
