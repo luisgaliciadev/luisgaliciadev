@@ -4,6 +4,8 @@ Soy Luis Raul Galicia, Full-Stack Developer...
 
 Profesional en el área de ingeniería de sistemas, con diez (10) años de experiencia en el de desarrollo de software y tecnología de la información, experiencia ocupando cargos de desarrollador de software, analista de sistemas y soporte técnico. Completamente orientado a resultados, con capacidad para trabajar en equipo y experiencia en la implementación de sistemas y soluciones tecnológicas.
 
+<a href="https://www.linkedin.com/in/luis-raul-galicia-lugo-718919191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 -	Programación: Javascript, TypeScript, PHP, JQuery, Ajax, Python, Visual Fox Pro 9, Transact-SQL. Maquetación con HTML, Bootstrap y CSS.
 -	Frameworks, Entornos y Plataformas: Angular, Ionic, Express.JS, Django, Flask, Node.JS, Firebase, Heroku, WAMP Server y XAMPP Server.
 -	Bases de Datos Relacional: SQL Server, MySQL, PostgreSQL, SQLite.
@@ -36,10 +38,6 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 
 ![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight)](https://github.com/luisgaliciadev/github-readme-stats)
-
-
-<a href="https://www.linkedin.com/in/luis-raul-galicia-lugo-718919191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 
 <!--
 **luisgaliciadev/luisgaliciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
