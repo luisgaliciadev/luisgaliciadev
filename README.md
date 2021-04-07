@@ -41,7 +41,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
     <img height="180"  align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight" />
   </a>  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight">
-    <img height="180" with="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
+    <img height="180" with="1000" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
   </a>
 
 
