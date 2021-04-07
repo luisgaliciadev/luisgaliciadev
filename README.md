@@ -32,7 +32,11 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev)](https://github.com/luisgaliciadev/github-readme-stats)
+
+
+![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact)](https://github.com/luisgaliciadev/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/luis-raul-galicia-lugo-718919191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
