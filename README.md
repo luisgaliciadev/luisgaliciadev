@@ -35,6 +35,8 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 
 <a href="https://www.linkedin.com/in/luis-raul-galicia-lugo-718919191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **luisgaliciadev/luisgaliciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
