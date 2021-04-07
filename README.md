@@ -34,7 +34,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 
 
 
-![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=dracula)
+![luisgalicadev GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact)](https://github.com/luisgaliciadev/github-readme-stats)
