@@ -13,7 +13,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-%23E44D27?style=flat-square&logo=angular&logoColor=ffffff)
-![Ionic](https://img.shields.io/badge/Ionic-O-blue)
+![Ionic](https://img.shields.io/badge/-Ionic-3776AB?style=flat-square&logo=ionic&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/Express.js-E-yellow)
