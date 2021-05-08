@@ -45,8 +45,7 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
   </a>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8)](https://github.com/luisgaliciadev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight)](https://github.com/luisgaliciadev/github-readme-stats)
   
 <!--
 **luisgaliciadev/luisgaliciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
