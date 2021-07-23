@@ -53,6 +53,9 @@ Profesional en el área de ingeniería de sistemas, con diez (10) años de exper
   </a>
   
    <img height="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight" />
+   
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 
