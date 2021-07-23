@@ -7,7 +7,7 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
 <a href="https://www.linkedin.com/in/luis-raul-galicia-lugo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 -	Programación: Javascript, TypeScript, PHP, JQuery, Ajax, Python, Visual Fox Pro 9, Transact-SQL. Maquetación con HTML, Bootstrap y CSS.
--	Frameworks, Entornos y Plataformas: Angular, Ionic, Express.JS, Django, Flask, Node.JS, Firebase, Heroku, WAMP Server y XAMPP Server.
+-	Frameworks, Entornos y Plataformas: Angular, Ionic, React Native Express.JS, Django, Flask, Node.JS, Firebase, Heroku, WAMP Server y XAMPP Server.
 -	Bases de Datos Relacional: SQL Server, MySQL, PostgreSQL, SQLite.
 -	Bases de Datos no Relacional: MongoDB.
 
