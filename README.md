@@ -33,6 +33,7 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
 ![Heroku](https://img.shields.io/badge/-Heroku-%23F05032?style=flat-square&logo=heroku&logoColor=%23ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
