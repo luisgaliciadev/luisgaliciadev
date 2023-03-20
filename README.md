@@ -100,7 +100,7 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/tree/master/icons/git" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Devicon Logo" height="140" />
