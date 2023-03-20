@@ -57,11 +57,23 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="140" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
   </a>
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
   
   
