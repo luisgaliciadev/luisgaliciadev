@@ -117,10 +117,11 @@ Profesional en el área de ingeniería de sistemas, con experiencia en el de des
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Devicon Logo" height="70" />
+  </a>
   
   
-  
- 
 <!--
 **luisgaliciadev/luisgaliciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
