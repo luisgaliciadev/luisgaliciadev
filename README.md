@@ -55,7 +55,7 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   
   - Tecnologías preferidas:
   <a href="https://github.com/devicons/devicon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
