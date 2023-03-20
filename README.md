@@ -56,11 +56,15 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="140" />
   </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="140" />
+  </a>
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="140" />
+  </a>
   
   
-
-
-
   
 <!--
 **luisgaliciadev/luisgaliciadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
