@@ -51,11 +51,12 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight">
      <img height="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=20&theme=tokyonight" />
   </a>
- 
- 
- <a href="https://github.com/devicons/devicon">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
-    </a>
+  
+  
+  - Tecnologías preferidas:
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
   
 
 
