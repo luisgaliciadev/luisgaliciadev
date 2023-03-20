@@ -75,6 +75,21 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Devicon Logo" height="140" />
   </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Devicon Logo" height="140" />
+  </a>
   
   
   
