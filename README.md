@@ -54,68 +54,68 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   
  - Tecnologías preferidas:
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Devicon Logo" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Devicon Logo" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Devicon Logo" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   
   
