@@ -43,7 +43,7 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
 - GitHub Stats
   
   <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight">
-    <img width="50" height="50" style="max-width: 100% align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight" />
   </a>  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
@@ -54,20 +54,20 @@ Profesional en el área de ingeniería de sistemas, con mas de diez(10) años de
   
  - Tecnologías preferidas:
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="50" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Devicon Logo" height="50" />
   </a>
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Devicon Logo" height="50" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Devicon Logo" height="50" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Devicon Logo" height="50" />
   </a>
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Devicon Logo" height="140" />
