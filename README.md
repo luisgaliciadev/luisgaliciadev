@@ -87,9 +87,9 @@ Profesional en el área de ingeniería de sistemas, con experiencia en el de des
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
-  <a href="https://github.com/devicons/devicon">
+<!--   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Devicon Logo" height="70" />
-  </a>
+  </a> -->
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
