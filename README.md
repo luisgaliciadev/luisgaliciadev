@@ -105,9 +105,9 @@ Profesional en el área de ingeniería de sistemas, con experiencia en el de des
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
-  <a href="https://github.com/devicons/devicon">
+<!--   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Devicon Logo" height="70" />
-  </a>
+  </a> -->
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
