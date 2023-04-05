@@ -7,10 +7,7 @@ Profesional en el área de ingeniería de sistemas, con experiencia en el de des
 <a href="https://www.linkedin.com/in/luis-raul-galicia-lugo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://luisgaliciadev.web.app/#/home" target="_blank"><img alt="Website badge" src="https://img.shields.io/badge/website-up-brightgreen"></a>
 
--	Programación: Javascript, TypeScript, PHP, JQuery, Ajax, Python, Visual Fox Pro 9, Transact-SQL. Maquetación con HTML, Bootstrap y CSS.
--	Frameworks, Entornos y Plataformas: Angular, Ionic, React Native Express.JS, Django, Flask, Node.JS, Firebase, Heroku, WAMP Server y XAMPP Server.
--	Bases de Datos Relacional: SQL Server, MySQL, PostgreSQL, SQLite.
--	Bases de Datos no Relacional: MongoDB.
+Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, Express.JS, Node.JS, NestJS, Flask,, Swagger, Javascript, TypeScript, PHP, JQuery, Python, HTML5, Bootstrap, CSS, SASS, Angular Material, SQL Server, MySQL, PostgreSQL, SQLite, MongoDB, Git, GitHub, BitBucket, Firebase, Google Cloud, AWS, Microsoft Power BI.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-%23E44D27?style=flat-square&logo=angular&logoColor=ffffff)
