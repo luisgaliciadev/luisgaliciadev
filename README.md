@@ -41,14 +41,24 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
   
   <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true" />
-  </a>  
-           https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=javascript,html">
+  </a> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+       
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=javascript,html">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight">
+  </a> -->
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight">
      <img height="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=20&theme=tokyonight" />
-  </a>
+  </a> -->
   
  - Tecnologías preferidas:
   <a href="https://github.com/devicons/devicon">
