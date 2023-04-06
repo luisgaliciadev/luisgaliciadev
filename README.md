@@ -41,8 +41,8 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
 
 ![Luisgaliciadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true)
   
-  <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&show_icons=true&theme=tokyonight" />
+  <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true" />
   </a>  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
