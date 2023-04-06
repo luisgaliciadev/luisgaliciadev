@@ -38,8 +38,6 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
 
 
 - GitHub Stats
-
-![Luisgaliciadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true)
   
   <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true" />
