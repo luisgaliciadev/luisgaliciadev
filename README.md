@@ -44,10 +44,7 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
   </a> 
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php)]
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8)]
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&langs_count=8)] 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact)]
   
        
