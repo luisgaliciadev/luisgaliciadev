@@ -47,24 +47,10 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&layout=compact&theme=tokyonight&show_icons=true" />
   </a
   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&langs_count=8&theme=tokyonight&show_icons=true">
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&langs_count=8&theme=tokyonight&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&langs_count=8&theme=tokyonight&show_icons=true" />
-  </a>
-  
-
-  
-  
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=php&langs_count=8)]  -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact)] -->
-  
-       
-<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&hide=javascript,html">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&layout=compact&theme=tokyonight" />
   </a> -->
-<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=8&theme=tokyonight">
-     <img height="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgaliciadev&langs_count=20&theme=tokyonight" />
-  </a> -->
-  
+ 
  - Tecnologías preferidas:
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Devicon Logo" height="70" />
