@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy Luis Raul Galicia, Desarrollador Full Stack
+Soy Luis Raúl Galicia, Desarrollador Full Stack
 
 Profesional en el área de ingeniería de sistemas, con experiencia en el de desarrollo de software y tecnología de la información. Completamente orientado a resultados, con capacidad para trabajar en equipo y experiencia en la implementación de sistemas y soluciones tecnológicas.
 
