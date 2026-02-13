@@ -37,7 +37,7 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
-- GitHub Stats
+<!-- - GitHub Stats
   
   <a href="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgaliciadev&theme=tokyonight&show_icons=true" />
