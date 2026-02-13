@@ -71,7 +71,7 @@ Tecnologias: Angular, Ionic, React Native, RxJS, Redux, NGX-Bootstrap, PrimeNG, 
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="Devicon Logo" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="Devicon Logo" height="70" />
   </a>
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Devicon Logo" height="70" />
